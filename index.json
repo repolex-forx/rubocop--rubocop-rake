@@ -1,0 +1,11 @@
+{
+  "org": "rubocop",
+  "repo": "rubocop-rake",
+  "versions": [
+    {
+      "commit": "890aabc9708da938d54f954cc8393732e86b8891",
+      "tag": "",
+      "parsed_at": "2026-11-10T02:58:37.985080+00:00"
+    }
+  ]
+}
